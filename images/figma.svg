@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Group_87" data-name="Group 87" transform="translate(-147 -509)">
+    <g id="Rectangle_94" data-name="Rectangle 94" transform="translate(147 509)" fill="#353535" stroke="#707070" stroke-width="1">
+      <rect width="48" height="48" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="47" height="47" rx="9.5" fill="none"/>
+    </g>
+    <g id="Group_86" data-name="Group 86" transform="translate(-1065 168)">
+      <g id="Figma-logo" transform="translate(1225 348)">
+        <path id="path0_fill" d="M5.667,211.333a5.669,5.669,0,0,0,5.667-5.667V200H5.667a5.667,5.667,0,1,0,0,11.333Z" transform="translate(0 -177.333)" fill="#0acf83"/>
+        <path id="path1_fill" d="M0,105.667A5.669,5.669,0,0,1,5.667,100h5.667v11.333H5.667A5.669,5.669,0,0,1,0,105.667Z" transform="translate(0 -88.667)" fill="#a259ff"/>
+        <path id="path1_fill_1_" d="M0,5.667A5.669,5.669,0,0,1,5.667,0h5.667V11.333H5.667A5.669,5.669,0,0,1,0,5.667Z" fill="#f24e1e"/>
+        <path id="path2_fill" d="M100,0h5.667a5.667,5.667,0,0,1,0,11.333H100Z" transform="translate(-88.667)" fill="#ff7262"/>
+        <path id="path3_fill" d="M111.333,105.667A5.667,5.667,0,1,1,105.667,100,5.669,5.669,0,0,1,111.333,105.667Z" transform="translate(-88.667 -88.667)" fill="#1abcfe"/>
+      </g>
+    </g>
+  </g>
+</svg>
